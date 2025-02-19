@@ -320,8 +320,7 @@ Cada integrante asumirá *un rol principal, pero se promoverá la **colaboració
 
 
 
-## *Aprendizaje Adquirido (Ejemplo para la primera entrega, editable según avance)*
-
+## *Aprendizaje Adquirido  
 Hasta el momento, el equipo ha adquirido conocimientos y habilidades en:
 
 - *Modelado multiagente en entornos parcialmente observables:* Familiarización con *AgentPy* y la configuración de entornos discreto-espaciales para modelar dinámicas de distribución de recursos en un sistema autónomo de agentes.
